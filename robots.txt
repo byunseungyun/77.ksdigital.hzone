@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://ksdigital.hzone.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
